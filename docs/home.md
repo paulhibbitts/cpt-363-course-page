@@ -18,20 +18,20 @@ Is this your first online course? If so, you might find these articles might be 
 
 ## What is usability and user experience design?
 
-### Summaries and Questions  
+### Summaries and Questions | Week 1  
 [May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377751)
 
-### Presented Slides  
+### Presented Slides | Week 1  
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### Supplemental Materials  
+### Supplemental Materials | Week 1  
 [Elements of User Experience by Jesse James Garrett](https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf)
 <div class="responsive-container"><iframe src="https://docs.google.com/viewer?url=http://infolab.stanford.edu/pub/papers/google.pdf&embedded=true" style="width:780px; height:585px;" frameborder="0"></iframe></div>
 
-### Downloads
+### Downloads | Week 1
 [Course Overview](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Course%20Overview)  
 
-### Recommended Reading  
+### Recommended Reading | Week 1  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
 
 ![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
@@ -40,22 +40,22 @@ Is this your first online course? If so, you might find these articles might be 
 
 ## What does a holistic user experience design process look like?
 
-### Summaries and Questions  
+### Summaries and Questions | Week 2   
 [May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377743)
 
-### Presented Slides  
+### Presented Slides | Week 2   
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### CPT-363 UX Design Process/Toolkit
+### CPT-363 UX Design Process/Toolkit | Week 2
 ![UX Design Process/Toolkit](images/ux-toolkit-8-no-numbers.png)
 
-### Downloads
+### Downloads | Week 2
 [Product Reaction Cards](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Product%20Reaction%20Cards)  
 
-### Assignments
+### Assignments | Week 2
 [Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  
 
-### Quick Quiz
+### Quick Quiz | Week 2
 <iframe src="https://h5p.org/h5p/embed/214115" width="728" height="278" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="User-Centered Design"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ### Recommended Reading  
@@ -67,19 +67,19 @@ Is this your first online course? If so, you might find these articles might be 
 
 ## How to make more strategic design decisions?
 
-### Summaries and Questions  
+### Summaries and Questions | Week 3  
 [May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377744)
 
-### Presented Slides  
+### Presented Slides | Week 3  
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### Supplemental Materials  
+### Supplemental Materials | Week 3  
 <div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/a40QYgO-_aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### Assignments
+### Assignments | Week 3
 [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)  
 
-### Required Reading  
+### Required Reading | Week 3  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
 
 # Week 4 (May 30 - Jun 5)
@@ -88,20 +88,20 @@ Is this your first online course? If so, you might find these articles might be 
 
 ## How to explore the problem space?
 
-### Summaries and Questions  
+### Summaries and Questions | Week 4  
 [May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377745)
 
-### Presented Slides  
+### Presented Slides | Week 4    
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### Supplemental Materials  
+### Supplemental Materials | Week 4    
 <div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/MwidSAlbEB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### Downloads
+### Downloads | Week 4  
 [4-UP BROWSERS + GRID](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Sketching%20Templates/sneakpeekit-4-browsers)  
 [4-UP MOBILES + GRID](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Sketching%20Templates/sneakpeekit-4-mobiles)  
 
-### Required Reading  
+### Required Reading | Week 4    
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
 
 # Week 5 (Jun 6 - 12)
@@ -110,17 +110,25 @@ Is this your first online course? If so, you might find these articles might be 
 
 ## How to plan, conduct, and summarize usability tests?
 
-### Summaries and Questions  
+### Summaries and Questions | Week 5    
 [Jun 6th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377746)
 
-### Presented Slides  
+### Presented Slides | Week 5  
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### Supplemental Materials  
+### Supplemental Materials | Week 5  
 <div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/QckIzHC99Xc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### Required Reading  
+### Required Reading | Week 5  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testing</a>
+
+# LMS Links
+
+[![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar](https://canvas.sfu.ca/courses/44038/calendar)  
+[![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Assignments](https://canvas.sfu.ca/courses/44038/assignments )  
+[![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080) Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)  
+[![Class Discussions Icon](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080) Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)  
+[![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)  
 
 # Contact
 
